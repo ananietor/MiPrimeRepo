@@ -12,3 +12,7 @@ Curso de manejo de versiones
 
 Versiójn 2.0
 12:01
+
+Vamos a trabajar en una rama del proyecto: Rama1
+
+
